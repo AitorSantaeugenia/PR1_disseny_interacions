@@ -26,3 +26,5 @@ Prototipo / Prototype:
 
 Cómo funciona / How it works:
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/18611501/0760a548-7d3b-11e6-8a01-bd489b9fc020.png)
+
+CC BY-NC-SA
