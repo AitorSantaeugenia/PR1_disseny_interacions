@@ -1,7 +1,7 @@
 # Sonar con arduino y processing
 PR1 Disseny interacció
 
-Sonar using arduino and processing for the interface.<br>
+Sonar using arduino and processing interface.<br>
 Sonar usando arduino y processing para la interfaz.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
